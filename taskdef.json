@@ -6,8 +6,8 @@
   "containerDefinitions": [
     {
       "name": "webapp",
-      "image": "536910021553.dkr.ecr.us-east-1.amazonaws.com/devops-workshop-app:latest",
       "cpu": 0,
+      "image": "<IMAGE1_NAME>",
       "links": [],
       "portMappings": [
         {
